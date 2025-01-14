@@ -1,3 +1,5 @@
+# Esse programa é capaz de agrupar os arquivos pelo tipo, separando-os em pastas por tipo, exceto arquivos em Python que ficam soltos na pasta principal
+
 import os
 
 cwd = os.getcwd()
